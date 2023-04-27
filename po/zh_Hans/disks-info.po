@@ -1,212 +1,225 @@
 msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2022-12-20 15:36+0000\n"
+"Last-Translator: waynesg <waynesg511@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12.1-dev\n"
+
+msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
 msgid "ATA Version is"
-msgstr ""
+msgstr "ATA 版本"
 
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 msgid "Attribute name"
-msgstr ""
+msgstr "属性名称"
 
 msgid "Available"
-msgstr ""
+msgstr "可用的"
 
 msgid "Boot"
-msgstr ""
+msgstr "引导"
 
 msgid "Collecting data..."
-msgstr ""
+msgstr "收集数据中..."
 
 msgid "Current"
-msgstr ""
+msgstr "实时温度"
 
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 msgid "Device"
-msgstr ""
+msgstr "设备"
 
 msgid "Device is"
-msgstr ""
+msgstr "设备"
 
 msgid "Device Model"
-msgstr ""
+msgstr "设备型号"
 
 msgid "Device statistics"
-msgstr ""
+msgstr "设备统计"
 
 msgid "Disk model"
-msgstr ""
+msgstr "磁盘型号"
 
 msgid "Disk identifier"
-msgstr ""
+msgstr "磁盘标识"
 
 msgid "Disklabel type"
-msgstr ""
+msgstr "磁盘标签类型"
 
 msgid "Disk Devices"
-msgstr ""
+msgstr "磁盘设备"
 
 msgid "End"
-msgstr ""
+msgstr "结束"
 
 msgid "Error number"
-msgstr ""
+msgstr "错误编号"
 
 msgid "Estimated time"
-msgstr ""
+msgstr "预计时间"
 
 msgid "File systems"
-msgstr ""
+msgstr "文件系统"
 
 msgid "Filesystem"
-msgstr ""
+msgstr "文件系统"
 
 msgid "Firmware Version"
-msgstr ""
+msgstr "固件版本"
 
 msgid "Form Factor"
-msgstr ""
+msgstr "设备规格"
 
 msgid "Free-Fall Statistics"
-msgstr ""
+msgstr "掉落统计"
 
 msgid "Gb"
 msgstr ""
 
 msgid "General Statistics"
-msgstr ""
+msgstr "常规统计"
 
 msgid "General Errors Statistics"
-msgstr ""
+msgstr "常规错误统计"
 
 msgid "Id"
 msgstr ""
 
 msgid "In smartctl database [for details use: -P show]"
-msgstr ""
+msgstr "在smartctl数据库中[详细信息请使用：-P show]"
 
 msgid "Index"
-msgstr ""
+msgstr "索引"
 
 msgid "Information about the connected disk devices."
-msgstr ""
+msgstr "已连接磁盘设备的信息."
 
 msgid "LU WWN Device Id"
-msgstr ""
+msgstr "LU WWN 设备Id"
 
 msgid "Lifetime hours"
-msgstr ""
+msgstr "工作时间"
 
 msgid "Lifetime max"
-msgstr ""
+msgstr "工作时间最大值"
 
 msgid "Lifetime min"
-msgstr ""
+msgstr "工作时间最小值"
 
 msgid "Limit max"
-msgstr ""
+msgstr "最大限额"
 
 msgid "Limit min"
-msgstr ""
+msgstr "最小限额"
 
 msgid "Local Time is"
-msgstr ""
+msgstr "当地时间"
 
 msgid "May not be supported by some devices..."
-msgstr ""
+msgstr "可能不受某些设备支持..."
 
 msgid "Model Family"
-msgstr ""
+msgstr "系列型号"
 
 msgid "Mounted on"
-msgstr ""
+msgstr "挂载位置"
 
 msgid "No devices detected"
-msgstr ""
+msgstr "未检测到设备"
 
 msgid "No mounted file systems"
-msgstr ""
+msgstr "没有挂载的文件系统"
 
 msgid "No partitions available"
-msgstr ""
+msgstr "没有可用的分区"
 
 msgid "Not in smartctl database [for details use: -P showall]"
-msgstr ""
+msgstr "未在smartctl数据库中[详细信息请使用：-P showall]"
 
 msgid "Partitions"
-msgstr ""
+msgstr "分区"
 
 msgid "Percentage Used Endurance Indicator"
-msgstr ""
+msgstr "使用百分比"
 
 msgid "Preserve across power cycles"
-msgstr ""
+msgstr "断电时保存"
 
 msgid "RAW"
 msgstr ""
 
 msgid "Recommended max"
-msgstr ""
+msgstr "推荐最大值"
 
 msgid "Recommended min"
-msgstr ""
+msgstr "推荐最小值"
 
 msgid "Refresh devices"
-msgstr ""
+msgstr "刷新设备"
 
 msgid "Rotating Media Statistics"
-msgstr ""
+msgstr "旋转媒体统计"
 
 msgid "Rotation Rate"
-msgstr ""
+msgstr "转速"
 
 msgid "S.M.A.R.T."
 msgstr ""
 
 msgid "S.M.A.R.T. error log"
-msgstr ""
+msgstr "S.M.A.R.T. 错误日志"
 
 msgid "SATA Version is"
-msgstr ""
+msgstr "SATA 版本"
 
 msgid "SCT temperature history"
-msgstr ""
+msgstr "SCT温度记录"
 
 msgid "SMART overall-health self-assessment test result:"
-msgstr ""
+msgstr "SMART整体健康自我评估测试结果："
 
 msgid "Set logging interval"
-msgstr ""
+msgstr "设置日志记录间隔"
 
 msgid "Sector Size"
-msgstr ""
+msgstr "扇区大小"
 
 msgid "Sector size (logical/physical)"
-msgstr ""
+msgstr "扇区大小（逻辑/物理）"
 
 msgid "Sectors"
-msgstr ""
+msgstr "扇区"
 
 msgid "Serial Number"
-msgstr ""
+msgstr "序列号"
 
 msgid "Size"
-msgstr ""
+msgstr "大小"
 
 msgid "Solid State Device Statistics"
-msgstr ""
+msgstr "固态设备统计数据"
 
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 msgid "Temperature"
-msgstr ""
+msgstr "温度"
 
 msgid "Temperature Statistics"
-msgstr ""
+msgstr "温度统计"
 
 msgid "THRESH"
 msgstr ""
@@ -215,19 +228,19 @@ msgid "Transport Statistics"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 msgid "Units"
-msgstr ""
+msgstr "单位"
 
 msgid "Use"
-msgstr ""
+msgstr "使用"
 
 msgid "Used"
-msgstr ""
+msgstr "已使用"
 
 msgid "User Capacity"
-msgstr ""
+msgstr "用户容量"
 
 msgid "VALUE"
 msgstr ""
@@ -239,22 +252,22 @@ msgid "WORST"
 msgstr ""
 
 msgid "Write to device memory"
-msgstr ""
+msgstr "写入设备内存"
 
 msgid "blocks"
-msgstr ""
+msgstr "块"
 
 msgid "bytes"
-msgstr ""
+msgstr "字节"
 
 msgid "failed"
-msgstr ""
+msgstr "失败"
 
 msgid "interval"
-msgstr ""
+msgstr "间隔"
 
 msgid "logical/physical"
-msgstr ""
+msgstr "逻辑/物理"
 
 msgid "min"
 msgstr ""
